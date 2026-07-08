@@ -1,73 +1,33 @@
-# Welcome to your Lovable project
+# 🌿 Plantas Exóticas Fátima
 
-## Project info
+Una plataforma web responsiva y optimizada desarrollada para la digitalización, presencia online y futura integración de ventas e-commerce de un vivero especializado en Lima, Perú. 
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Este proyecto fue construido con un enfoque prioritario en el rendimiento (Performance) y la optimización para motores de búsqueda (Local SEO), con el objetivo de captar clientes corporativos y residenciales para servicios de paisajismo, mantenimiento y venta de plantas.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🛠️ Stack Tecnológico
 
-**Use Lovable**
+| Categoría | Tecnología Utilizada |
+| :--- | :--- |
+| **Librería Principal** | React |
+| **Lenguaje** | TypeScript |
+| **Estilos y UI** | Tailwind CSS |
+| **Entorno y Build** | Vite |
+| **Hosting & CI/CD** | Vercel |
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Características Destacadas
 
-**Use your preferred IDE**
+* **Arquitectura Frontend Escalable:** Desarrollo modular con React y TypeScript para garantizar la mantenibilidad del código y facilitar la futura transición hacia una arquitectura de e-commerce completo.
+* **Optimización SEO Local:** Implementación de etiquetas semánticas, meta tags dinámicos y estructuración de contenido (H1, H2) orientados a posicionar términos de búsqueda clave en la ciudad de Lima (ej. "Servicio de paisajismo", "Mantenimiento de áreas verdes").
+* **Diseño UI/UX Responsivo:** Interfaz adaptativa "Mobile-First" construida con Tailwind CSS, garantizando una navegación fluida en todos los dispositivos.
+* **Integraciones Clave:** Configuración de componentes interactivos como barra de navegación adaptable (Navbar), pie de página corporativo (Footer) y la integración de mapas para la geolocalización del negocio.
+* **Despliegue Continuo (CI/CD):** Configuración del entorno de producción a través de Vercel para despliegues ágiles y actualizaciones en tiempo real.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
+Link: https://www.plantasexoticasfatima.com/
+Desarrollado por Celio Alfonso Diaz Lezama.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
